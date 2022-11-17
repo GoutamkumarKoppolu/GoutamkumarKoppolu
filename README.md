@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Goutam kumar Koppolu
-- 👀 I’m interested in bulding and replicating real world applications with my own logic and improving it.
+- 👀 I’m interested in learning new things. Implementing those things on real life. I love coding.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on koppolugoutamkumar@gmail.com
