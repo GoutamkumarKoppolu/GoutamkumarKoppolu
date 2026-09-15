@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Goutam kumar Koppolu
-- 👀 I’m interested in learning new things. Implementing those things on real life. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on koppolugoutamkumar@gmail.com
+- 👀Please go through this link to know more about me https://goutamkumarkoppolu.github.io/
 
 <!---
 GoutamkumarKoppolu/GoutamkumarKoppolu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
